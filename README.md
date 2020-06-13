@@ -1,6 +1,1 @@
-#include <stdio.h>
-int main()
-{
- printf("Hello world");
- return 0;
-}
+This repository is for testing purpose only.
